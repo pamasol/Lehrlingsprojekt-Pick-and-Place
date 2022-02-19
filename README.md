@@ -1,0 +1,1 @@
+# Lehrlingsprojekt-Pick-and-Place
